@@ -1,5 +1,6 @@
-# John Bars Quipia
-### React Frontend Developer 
+# John Bars Quipia 
+React Frontend Developer 
+
 Hi there! I'm John Bars from the Philippines. I'm relatively new to development, currently working on building websites with Next.js, React, and Tailwind CSS. I enjoy learning programming languages and mechatronics.
 
 ## Skills
