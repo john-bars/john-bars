@@ -22,30 +22,12 @@ Hi there! I'm John Bars from the Philippines. I'm relatively new to development,
 * [**DevFlow**](https://devflow-bars.vercel.app)
 
   <div>
-    <img src="https://john-bars.vercel.app/_next/image?url=%2Fimages%2Fportfolio-mobile.png&w=384&q=75" height="200">
-    <img src="https://john-bars.vercel.app/_next/image?url=%2Fimages%2Fportfolio-mobile.png&w=384&q=75" height="200">
+    <img src="https://john-bars.vercel.app/_next/image?url=%2Fimages%2Fdevflow-tablet-dark.png&w=384&q=75" height="200">
+    <img src="https://john-bars.vercel.app/_next/image?url=%2Fimages%2Fdevflow-mobile-dark.png&w=384&q=75" height="200">
+    <img src="https://john-bars.vercel.app/_next/image?url=%2Fimages%2Fdevflow-mobile-light.png&w=384&q=75" height="200">
   </div>
 
+ ## Get in Touch
 
-
-
-
-
-
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**john-bars/john-bars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Looking for a **Web Developer**?_  
+Please drop me a message at ___[john.barsq@gmail.com](mailto:john.barsq@gmail.com)___.
