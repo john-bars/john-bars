@@ -1,33 +1,79 @@
 # John Bars Quipia
-### React Frontend Developer
+### React / Frontend Developer
 
-Hi there! I'm John Bars from the Philippines. I'm relatively new to development, currently working on building websites with Next.js, React, and Tailwind CSS. I enjoy learning programming languages and mechatronics.
+Hi! I’m John Bars, a web developer from the Philippines focused on building modern, responsive web applications using **React, Next.js, and Tailwind CSS**. I enjoy turning ideas into functional products and continuously improving my full-stack skills.
 
-## Skills
-* React
-* Next.Js
-* MongoDb, Prisma
-* 💻 HTML, CSS, JS, TypeScript, Python
-* 🌱 I’m currently learning Python, Django and Databases
+---
 
-## Project Samples
-* [**Portfolio Website**](https://john-bars.vercel.app)
-  
-  <div>
-    <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fportfolio-mobile.png&w=384&q=75" height="200">
-    <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fportfolio-mobile2.png&w=384&q=75" height="200">
-    <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fportfolio-tablet.png&w=384&q=75" height="200">
-  </div>
-  
-* [**DevFlow**](https://devflow-bars.vercel.app)
+## 🛠 Skills
 
-  <div>
-    <img src="https://john-bars.vercel-v1.app/_next/image?url=%2Fimages%2Fdevflow-tablet-dark.png&w=384&q=75" height="200">
-    <img src="https://john-bars.vercel-v1.app/_next/image?url=%2Fimages%2Fdevflow-mobile-dark.png&w=384&q=75" height="200">
-    <img src="https://john-bars.vercel-v1.app/_next/image?url=%2Fimages%2Fdevflow-mobile-light.png&w=384&q=75" height="200">
-  </div>
+**Frontend**
+- React, Next.js
+- HTML, CSS, Tailwind CSS
+- JavaScript, TypeScript
 
- ## Get in Touch
+**UI & Styling**
+- Material UI (MUI)
 
-_Looking for a **Web Developer**?_  
-Please drop me a message at ___[john.barsq@gmail.com](mailto:john.barsq@gmail.com)___.
+**State Management & Data Fetching**
+- Redux (basic)
+- Redux Toolkit Query (RTK Query)
+- Zustand
+
+**Backend & Databases**
+- MongoDB, Prisma (basic)
+- API integration
+
+**Other**
+- Python
+- OAuth authentication
+- AI API integration
+
+---
+
+## 🚀 Project Samples
+
+### **DevFlow**
+🔗 <a href="https://filmpire-bars.vercel.app" target="_blank" rel="noopener noreferrer">https://devflow-bars.vercel.app</a>
+
+A full-stack, Stack Overflow–inspired Q&A platform featuring:
+- User authentication with OAuth (Google & GitHub)
+- AI-assisted answers using OpenAI API
+- Job listings fetched from external APIs
+- Responsive UI built with Tailwind CSS
+
+> Initially implemented with Clerk authentication, currently migrating fully to Next.js OAuth.
+
+<div>
+  <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fdevflow-tablet-dark.png&w=384&q=75" height="200" />
+  <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fdevflow-mobile-dark.png&w=384&q=75" height="200" />
+  <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fdevflow-mobile-light.png&w=384&q=75" height="200" />
+</div>
+
+---
+
+### **Portfolio Website (v1)**
+🔗 <a href="https://filmpire-bars.vercel.app" target="_blank" rel="noopener noreferrer">https://john-bars-v1.vercel.app</a>
+
+My earlier personal portfolio showcasing projects and responsive layouts.
+
+<div>
+  <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fportfolio-mobile.png&w=384&q=75" height="200" />
+  <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fportfolio-mobile2.png&w=384&q=75" height="200" />
+  <img src="https://john-bars-v1.vercel.app/_next/image?url=%2Fimages%2Fportfolio-tablet.png&w=384&q=75" height="200" />
+</div>
+
+---
+
+### **Filmpire**
+🔗 <a href="https://filmpire-bars.vercel.app" target="_blank" rel="noopener noreferrer">https://filmpire-bars.vercel.app</a>
+
+
+A movie discovery application powered by the TMDB API, featuring search, browsing, and responsive UI design.
+
+---
+
+## 📬 Get in Touch
+
+Looking for a **Web Developer**?  
+Feel free to reach out at **[john.barsq@gmail.com](mailto:john.barsq@gmail.com)**.
