@@ -5,6 +5,13 @@ Hi! I’m John Bars, a web developer from the Philippines focused on building mo
 
 ---
 
+## 📄 Resume
+
+- **Web version:** <a href="https://john-bars.vercel.app/resume" target="_blank" rel="noopener noreferrer" class="text-blue-600 italic hover:underline hover:text-blue-700">john-bars.vercel.app/resume</a>
+- **PDF version:** <a href="./assets/John_Bars_Quipia_Resume.pdf" target="_blank" rel="noopener noreferrer" class="text-blue-600 italic hover:underline hover:text-blue-700">Download PDF</a>
+
+---
+
 ## 🛠 Skills
 
 **Frontend**
