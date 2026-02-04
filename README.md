@@ -68,6 +68,10 @@ My earlier personal portfolio showcasing projects and responsive layouts.
 ### **Filmpire**
 🔗 <a href="https://filmpire-bars.vercel.app" target="_blank" rel="noopener noreferrer">https://filmpire-bars.vercel.app</a>
 
+A movie discovery application powered by the TMDB API, featuring search, browsing, and responsive UI design.
+
+### **Portfolio Website**
+🔗 <a href="https://filmpire-bars.vercel.app" target="_blank" rel="noopener noreferrer">https://john-bars.vercel.app</a>
 
 A movie discovery application powered by the TMDB API, featuring search, browsing, and responsive UI design.
 
